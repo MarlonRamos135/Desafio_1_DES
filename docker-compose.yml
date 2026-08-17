@@ -1,0 +1,8 @@
+services:
+  mvc-app:
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=tcp:serverdes.database.windows.net,1433;Initial Catalog=Peliulas;User ID=admin_app;Password=des2026!;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;

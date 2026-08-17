@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\views\\pelicula\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\views\\pelicula\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:views\\pelicula\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\views\\pelicula\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\views\\pelicula\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:views\\pelicula\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\angel\\desktop\\ins\\mvcpeliculas\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|c:\\users\\user\\desktop\\desafio - des\\views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D3DA36B-87E5-DD5D-2D00-17706F071EBD}|MVCPeliculas.csproj|solutionrelative:views\\pelicula\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -39,36 +47,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-08-15T03:31:52.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-15T03:29:04.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAChAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-15T01:29:47.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Models\\Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Models\\Pelicula.cs",
               "RelativeDocumentMoniker": "Models\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Models\\Pelicula.cs",
               "RelativeToolTip": "Models\\Pelicula.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T00:28:44.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T00:28:44.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Pelicula\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Edit.cshtml",
               "RelativeToolTip": "Views\\Pelicula\\Edit.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAIBpwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -76,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Pelicula\\Create.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Create.cshtml",
               "RelativeToolTip": "Views\\Pelicula\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -88,11 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PeliculaController.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Controllers\\PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Controllers\\PeliculaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PeliculaController.cs",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Controllers\\PeliculaController.cs",
               "RelativeToolTip": "Controllers\\PeliculaController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwE8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,16 +133,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Pelicula\\Index.cshtml",
-              "ToolTip": "C:\\Users\\angel\\Desktop\\INS\\MVCPeliculas\\Views\\Pelicula\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DESAFIO - DES\\Views\\Pelicula\\Index.cshtml",
               "RelativeToolTip": "Views\\Pelicula\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAACBjwDQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-28T00:45:55.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-28T00:45:55.172Z"
             }
           ]
         }
